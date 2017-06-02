@@ -1,18 +1,19 @@
 # script 1 
 rnorm(100)
 
-# Tercer examen de ProgramaciÛn cientÌfica
+# Tercer examen de Programaci√≥n cient√≠fica
 # 2017 
-# Nombre: LucÌa Maldonado
+# Nombre: Luc√≠a Maldonado
 
+read.csv("Nombrearchivo.csv")
 
-# IntroducciÛn ------------------------------------------------------------
+# Introducci√≥n ------------------------------------------------------------
 
 
 # Pre-procesamiento -------------------------------------------------------
 
 
-# An·lisis ----------------------------------------------------------------
+# An√°lisis ----------------------------------------------------------------
 
 
 # Post-procesamiento ------------------------------------------------------
